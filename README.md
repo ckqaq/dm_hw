@@ -9,4 +9,4 @@ KNN+SVM.pynb\
 逻辑回归+神经网络.pynb\
 决策树+gbm.pynb
 - 最终报告:\
-- 终期-客户流失判断.pdf
+终期-客户流失判断.pdf
